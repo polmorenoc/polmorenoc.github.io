@@ -195,6 +195,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-theme-minimal
 
 BUNDLED WITH
    1.13.6
