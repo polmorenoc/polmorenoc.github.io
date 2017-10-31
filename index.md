@@ -8,7 +8,7 @@ email: polmorenoc@gmail.com
 * * *
 I'm currently an intern at [DeepMind](https://deepmind.com/)
 
-Otherwise I'm a PhD student at [University of Edinburgh](http://www.anc.ed.ac.uk/), working under the supervision of [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/). My main research interests lie in the intersection of Machine Learning and Computer Vision. More specifically I have worked in combining generative models (of objects shapes, appearances as well as image generation via rendering) with deep learning methods to achieve both interpretable and accuracte descriptions from scenes.
+Otherwise I'm a PhD student at [University of Edinburgh](http://www.anc.ed.ac.uk/), working under the supervision of [Chris Williams](http://homepages.inf.ed.ac.uk/ckiw/). My main research interests lie in the intersection of Machine Learning and Computer Vision. More specifically I have worked in combining generative models (of objects shapes, appearances as well as image generation via rendering) with deep learning methods to achieve both interpretable and accurate descriptions from scenes.
 
 Here's my latest [CV](assets/pol_moreno_cv.pdf).
 
